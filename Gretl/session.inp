@@ -1,0 +1,7 @@
+# Log démarré 2020-10-08 09:50
+# Enregistrement des commandes la session. Notez qu'il peut
+# être nécessaire de l'éditer afin de l'utiliser comme script.
+open \
+  /Users/jean-martial/Desktop/UTT/MS_BDAAD_FORMATION/Openclassrooms/Statistiques/ozone.txt
+summary T12
+boxplot T15
